@@ -1,0 +1,6 @@
+customtkinter>=5.2.0
+vgamepad>=0.1.0
+pyvjoy>=1.0.1
+pywin32>=308
+pyperclip>=1.9.0
+keyboard>=0.13.5
