@@ -1,2 +1,2 @@
 # MN9-Controller-Automation-Tool
-A controller automation tool designed by me as a first project
+A customizable controller automation tool built with Python and CustomTkinter, designed to emulate Xbox controller input using `vgamepad`.
