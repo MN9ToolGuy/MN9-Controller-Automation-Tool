@@ -19,7 +19,7 @@ except Exception as e:
 ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("blue")
 app = ctk.CTk()
-app.title("MN9's Controller Automation Tool")
+app.title("Controller Automation Tool")
 app.geometry("900x650")
 app.resizable(False, False)
 app.wm_attributes("-topmost", True)
